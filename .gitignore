@@ -1,0 +1,4 @@
+# Project exclude paths
+/room-services/.gradle/
+/room-services/build/
+/room-services/build/classes/java/main/
